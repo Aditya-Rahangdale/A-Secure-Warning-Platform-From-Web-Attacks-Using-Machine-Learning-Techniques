@@ -3,4 +3,4 @@ Hello friends in this project we make a tool that detects the phishing websites.
 detected the phishing sites
 
 
-![fronted](https://user-images.githubusercontent.com/112549645/236234737-0fc4887b-f848-4383-85bf-ce2f694cafb8.png)
+https://user-images.githubusercontent.com/112549645/236234737-0fc4887b-f848-4383-85bf-ce2f694cafb8.png
